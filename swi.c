@@ -1,0 +1,7 @@
+switch (choice) {
+        case 1:
+            printf("You selected B.Tech CSE.\n");
+            break;
+	    }
+return 0;
+}
